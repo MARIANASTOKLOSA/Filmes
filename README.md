@@ -1,7 +1,5 @@
 # Filmes
-O meu site vai falar sobre filmes;
 
-![](https://media.tenor.com/3gq_KGTiMJcAAAAd/ralph-breaks-the-internet-2018.gif)
 O meu site vai falar sobre filmes;
 
 ![](https://media.tenor.com/3gq_KGTiMJcAAAAd/ralph-breaks-the-internet-2018.gif)
