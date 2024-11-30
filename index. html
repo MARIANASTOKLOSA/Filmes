@@ -1,1 +1,35 @@
-c
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filmes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo ao Meu Site de Filmes</h1>
+        <p>Descubra informações sobre seus filmes favoritos!</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Filmes em Destaque</h2>
+            <ul>
+                <li>📽️ Matrix</li>
+                <li>🎬 O Senhor dos Anéis</li>
+                <li>🎥 A Origem</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Sobre o Site</h2>
+            <p>Este site foi criado para listar meus filmes favoritos e aprender desenvolvimento web.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Desenvolvido por [Seu Nome] | 2024</p>
+    </footer>
+</body>
+</html>
