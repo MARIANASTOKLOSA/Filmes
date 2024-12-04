@@ -1,0 +1,12 @@
+meu-site-filmes/
+├── app.py
+├── templates/
+│   ├── base.html
+│   ├── index.html
+│   ├── filmes.html
+│   └── contato.html
+├── static/
+│   └── styles.css
+└── componentes/
+    ├── __init__.py
+    └── filme.py
